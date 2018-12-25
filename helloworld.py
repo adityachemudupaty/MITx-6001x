@@ -6,3 +6,4 @@ Created on Tue Dec 25 13:15:56 2018
 """
 
 print ('hello world')
+print ('I like 6.00.1x')
